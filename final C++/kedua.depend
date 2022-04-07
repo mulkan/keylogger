@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1648595388 source:c:\users\user\desktop\new folder (2)\kedua\main.cpp
+	<iostream>
+	<Windows.h>
+
+1648915210 source:c:\users\user\desktop\keylogger dengan c++\kedua\main.cpp
+	<iostream>
+	<Windows.h>
+	<fstream>
+
